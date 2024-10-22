@@ -6,6 +6,14 @@ This project implements a web server using the **ESP8266** module to remotely co
 
 This project demonstrates how to control hardware over Wi-Fi using the **ESP8266** and how to handle **HTTP requests** to manage real-time motor movement.
 
+# Project Screenshots
+## 1. Hardware Setup
+![Login Screen](https://github.com/Payal-Sinha09/Snappy/blob/master/images/Screenshot%20(156).png)
+## 2. Laptop Screen
+![Login Screen](https://github.com/Payal-Sinha09/Snappy/blob/master/images/Screenshot%20(156).png)
+## 3. Phone Screen
+![Login Screen](https://github.com/Payal-Sinha09/Snappy/blob/master/images/Screenshot%20(156).png)
+
 ## Features
 
 - **ESP8266 Web Server**: Uses the ESP8266 to host a web page for motor control.
