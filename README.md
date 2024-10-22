@@ -10,7 +10,7 @@ This project demonstrates how to control hardware over Wi-Fi using the **ESP8266
 ## 1. Hardware Setup
 ![Login Screen](https://github.com/Payal-Sinha09/Snappy/blob/master/images/Screenshot%20(156).png)
 ## 2. Laptop Screen
-![Login Screen](https://github.com/Payal-Sinha09/Snappy/blob/master/images/Screenshot%20(156).png)
+![Laptop Screen](https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/Screenshot%20(171).png)
 ## 3. Phone Screen
 ![Login Screen](https://github.com/Payal-Sinha09/Snappy/blob/master/images/Screenshot%20(156).png)
 
