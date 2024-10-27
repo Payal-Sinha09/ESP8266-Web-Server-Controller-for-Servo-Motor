@@ -8,11 +8,11 @@ This project demonstrates how to control hardware over Wi-Fi using the **ESP8266
 
 # Project Screenshots
 ## 1. Hardware Setup
-![Hardware Setup](https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/WhatsApp%20Image%202024-10-22%20at%209.26.16%20PM.jpeg)
+<img src="https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/WhatsApp%20Image%202024-10-22%20at%209.26.16%20PM.jpeg" alt="Hardware Setup" width="400"/>
 ## 2. Laptop Screen
-![Laptop Screen](https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/Screenshot%20(171).png)
+<img src="https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/Screenshot%20(171).png" alt="Laptop Screen" width="400"/>
 ## 3. Phone Screen
-![Phone Screen](https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/WhatsApp%20Image%202024-10-22%20at%209.26.21%20PM.jpeg)
+<img src="https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/WhatsApp%20Image%202024-10-22%20at%209.26.21%20PM.jpeg" alt="Phone Screen" width="400"/>
 
 # Video Demonstration
 [Watch the demo video](https://github.com/Payal-Sinha09/ESP8266-Web-Server-Controller-for-Servo-Motor/blob/main/images/WhatsApp%20Video%202024-10-27%20at%2010.26.25%20AM.mp4)
